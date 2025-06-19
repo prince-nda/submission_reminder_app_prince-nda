@@ -77,6 +77,12 @@ David, Shell Navigation, not submitted
 Loura, Emacs, submitted
 EOL
 
+cat << 'EOL' > "$main_dir/config/config.env"
+# This is the config file
+ASSIGNMENT="Shell Navigation"
+DAYS_REMAINING=2
+EOL
+
 cat << 'EOL' > "$main_dir/startup.sh"
 #!/bin/bash
 
