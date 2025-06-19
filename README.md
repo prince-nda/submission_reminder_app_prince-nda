@@ -1,10 +1,10 @@
-Individual Summative Lab
+**Individual Summative Lab**
 
-Submission Reminder App
+**Submission Reminder App**
 
-This submission reminder app is a bash based tool that allows students to create a personalized environment to track and alert them about upcoming assignment deadlines.
+**This submission reminder app** is a bash based tool that allows students to create a personalized environment to track and alert them about upcoming assignment deadlines.
 
-Here's what it does
+**Here's what it does**
 
 . prompts user to enter their name and assignment
 
@@ -15,11 +15,12 @@ Here's what it does
 . can update assignemnts later using copilot script
 
 
-Project structure
+**Project structure**
 
 After running your create_environment.sh, your project will look like this
 
-.submisssion_reminder_yourname
+**.submisssion_reminder_yourname**
+.
 ├── app
 │   └── reminder.sh
 ├── assets
@@ -30,13 +31,15 @@ After running your create_environment.sh, your project will look like this
 │   └── functions.sh
 └── startup.sh
 
-How to run the application
+
+**How to run the application**
 
 setup the  environment
 
 this will prompt for your name and create full project structure
 
-NOTES,
+**NOTES,**
 
 .Make sure you run create_environment.sh first before anything else.
+
 .The config file supports updating the current assignment and remaining days. 
